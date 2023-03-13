@@ -1,13 +1,13 @@
-import { Contact, Footerr, Headerr, Home, Projects, Tools } from "../components"
+import { Contact, Footerr, Headerr, Home, Projects, Tools } from '../components';
 
 const Main = () => (
   <>
-    <Headerr/>
-    <Home/>
-    <Projects/>
-    <Tools/>
-    <Contact/>
-    <Footerr/>
+    <Headerr />
+    <Home />
+    <Projects />
+    <Tools />
+    <Contact />
+    <Footerr />
   </>
 );
 

@@ -1,9 +1,9 @@
-import Contact from "./contact"
-import Footerr from "./footerr"
-import Headerr from "./headerr"
-import Home from "./home"
-import Projects from "./projects"
-import Tools from "./tools"
+import Contact from './contact';
+import Footerr from './footerr';
+import Headerr from './headerr';
+import Home from './home';
+import Projects from './projects';
+import Tools from './tools';
 
 export {
   Contact,
@@ -12,4 +12,4 @@ export {
   Home,
   Projects,
   Tools,
-  }
+};
